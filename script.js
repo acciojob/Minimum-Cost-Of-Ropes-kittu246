@@ -1,4 +1,4 @@
-function calculateMinCost(n, arr) {
+function calculateMinCost() {
   //your code here
   let finalsum =0;
   
